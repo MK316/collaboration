@@ -1,6 +1,8 @@
-# 🌀 Collaboration (KLN)
+# 🌀 Collaboration (KLN) Research Group
 
-Shared Google file links (Note: login with the designated account)
+asof 0630, 2024
+
+### Shared Google file links (Note: login with the designated account)
 
 + JKL:ejxxx @gmail.com
 + HSN: @korea.ac.kr
